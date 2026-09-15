@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darnoc92 - App Developer</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 700px;
+            margin: 60px auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+        h1 {
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 30px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        p {
+            color: #555;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.85em;
+            color: #888;
+            text-align: center;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin-top: 10px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Darnoc92</h1>
+        <p>Independent Android App Developer</p>
+
+        <h2>About My Apps</h2>
+        <p>I create simple, useful, and user-friendly applications for Android devices. My latest app, <strong>Cleared!</strong>, is available on Google Play.</p>
+        
+        <!-- Jeśli chcesz dodać link do Google Play, odkomentuj poniższą linię i wklej swój link -->
+        <!-- <a href="TWOJ_LINK_DO_GOOGLE_PLAY" class="btn">View on Google Play</a> -->
+
+        <h2>Contact</h2>
+        <p>For any inquiries, support, or business matters, please contact me at:</p>
+        <p><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+
+        <h2>Privacy Policy</h2>
+        <p>My applications do not collect any personal data from users. No user data is shared with third parties. My apps may display advertisements provided by Google AdMob.</p>
+
+        <div class="footer">
+            &copy; 2025 Darnoc92. All rights reserved.<br>
+            This page serves as the official developer website.
+        </div>
+    </div>
+</body>
+</html>
